@@ -97,7 +97,7 @@ meeting-actions/
     └── 01-meeting-note.md        # 口语转写 → 一屏纪要（100 分）
 ```
 
-> `market/social-preview.png` 是本仓的社交预览图（1280×640），也用于 README 顶部与分享卡片。改文案后跑 `python ../make_previews.py --only meeting-actions` 重新生成。
+> `market/social-preview.png` 是本仓的社交预览图（1280×640），用于 README 顶部与分享卡片。改文案后跑 `python market/make_preview.py` 重新生成（需要 Pillow）。
 
 ## 自定义
 
