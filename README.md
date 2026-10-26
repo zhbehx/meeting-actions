@@ -2,6 +2,8 @@
 
 > 把会议记录变成能执行的纪要：决策、行动项（责任人 + 动词 + 期限）、待定项，一屏，30 分钟内发出。
 
+![会议纪要](./market/social-preview.png)
+
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-111827)](./SKILL.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e)](./LICENSE)
 [![No deps](https://img.shields.io/badge/依赖-无-0ea5e9)](#)
@@ -94,6 +96,8 @@ meeting-actions/
 └── examples/
     └── 01-meeting-note.md        # 口语转写 → 一屏纪要（100 分）
 ```
+
+> `market/social-preview.png` 是本仓的社交预览图（1280×640），也用于 README 顶部与分享卡片。改文案后跑 `python ../make_previews.py --only meeting-actions` 重新生成。
 
 ## 自定义
 
