@@ -124,3 +124,11 @@ A：绝对不能。对外承诺一律写具体日期；确实没定的，写「�
 ## License
 
 [MIT](./LICENSE)
+
+---
+
+本仓库是 [zhbehx 的 Agent Skill 合集](https://github.com/zhbehx) 之一。
+
+觉得有用就点个 ⭐，是我继续加词库、加行业的动力。
+
+<!-- zhbehx-collection-footer -->
